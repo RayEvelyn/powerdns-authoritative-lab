@@ -1,0 +1,6 @@
+$ORIGIN example.test.
+$TTL 300
+@ IN SOA ns.example.test. hostmaster.example.test. (2026100301 3600 600 86400 300)
+@ IN NS ns.example.test.
+ns IN A 198.51.100.53
+www IN A 198.51.100.20
