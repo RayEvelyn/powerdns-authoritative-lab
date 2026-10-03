@@ -1,5 +1,7 @@
 # PowerDNS: understand authoritative DNS and split DNS
 
+Start with [GitOps, the bootstrap order, and why the repos are separate](docs/START-HERE.md).
+
 A beginner lab for answering the same name differently inside and outside a home lab. Start here if DNS still feels like a collection of mysterious router settings.
 
 ## Why this matters
